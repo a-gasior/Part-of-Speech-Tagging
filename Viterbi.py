@@ -1,5 +1,4 @@
 #Andrew Gasiorowski
-#Project 2
 
 import sys, re #used for regex and reading in command line arguments
 from itertools import product #used to generate all possible pos bi-grams
